@@ -1,0 +1,11 @@
+body, html {
+    height: 100%;
+    
+}
+.cadastro{
+    text-align: center;
+    color: fff;
+}
+.col-md-4 control-label{
+    color: fff;
+}
